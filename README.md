@@ -29,3 +29,4 @@ Michael works for the hospital. Michael is a(n) Heart doctor.
 Vincent works for the hospital. Vincent is operating now.
 Sonny works for the hospital. Sonny is a nurse with 6 patients.
 ```
+Please see the video for more details [CS612_AS3_pt1](https://drive.google.com/file/d/1qr5779qdJPmTuDwuJoZbSV575nIijMWW/view?usp=sharing)
